@@ -24,7 +24,7 @@ Bu proje, kullanıcıların kitapları listeleyebileceği, arayabileceği, detay
 ![Giriş ve Kayıt Sayfası Tasarımı](https://imgur.com/a/REe9dbh)
 
 **Ana Sayfa (Kitap Listesi)**
-![Ana Sayfa Tasarımı](https://imgur.com/xJrZgCz)
+![Ana Sayfa Tasarımı][(https://imgur.com/xJrZgCz)](https://i.imgur.com/xJrZgCz.png)
 
 **Kitap Detay Sayfası**
 ![Detay Sayfası Tasarımı](https://imgur.com/yMsJdyJ)

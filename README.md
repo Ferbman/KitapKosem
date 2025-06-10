@@ -1,4 +1,4 @@
-# 📖 KitapKöşem - Online Kitap İnceleme ve Puanlama Sistemi
+![{24CC3345-894B-461B-BD68-3D7C38E579E2}](https://github.com/user-attachments/assets/acd5bb25-bf2f-4e37-ab0a-7cfa45d8e97f)# 📖 KitapKöşem - Online Kitap İnceleme ve Puanlama Sistemi
 
 Bu proje, kullanıcıların kitapları listeleyebileceği, arayabileceği, detaylarını inceleyebileceği, yeni kitaplar ekleyebileceği, yorum yapabileceği ve 1-5 arası puan verebileceği dinamik bir web uygulamasıdır. Proje, modern Java web teknolojileri ve MVC (Model-View-Controller) mimarisi prensipleri kullanılarak geliştirilmiştir.
 
@@ -21,16 +21,16 @@ Bu proje, kullanıcıların kitapları listeleyebileceği, arayabileceği, detay
 *(Bu kısımlara projenizden aldığınız ekran görüntülerinin linklerini veya dosyalarını ekleyebilirsiniz.)*
 
 **Giriş ve Kayıt Sayfaları**
-![Giriş ve Kayıt Sayfası Tasarımı](https://i.imgur.com/uI6opGo.png)
+![Giriş ve Kayıt Sayfası Tasarımı](https://imgur.com/a/REe9dbh)
 
 **Ana Sayfa (Kitap Listesi)**
-![Ana Sayfa Tasarımı](https://i.imgur.com/8QO9yR7.png)
+![Ana Sayfa Tasarımı](https://imgur.com/xJrZgCz)
 
 **Kitap Detay Sayfası**
-![Detay Sayfası Tasarımı](https://i.imgur.com/OIXJcAc.png)
+![Detay Sayfası Tasarımı](https://imgur.com/yMsJdyJ)
 
 **Kitap Ekleme Sayfası**
-![Kitap Ekleme Tasarımı](https://i.imgur.com/N74PjG6.png)
+![Kitap Ekleme Tasarımı](https://imgur.com/M50oAhM)
 
 
 ## 🛠️ Kullanılan Teknolojiler

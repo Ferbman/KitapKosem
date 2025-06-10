@@ -16,23 +16,6 @@ Bu proje, kullanıcıların kitapları listeleyebileceği, arayabileceği, detay
 - **Kişisel Sayfa:** Kullanıcıların kendi ekledikleri kitapları gördüğü "Kitaplarım" sayfası.
 - **Modern Arayüz:** Tüm sayfalarda tutarlı, koyu temalı ve şık bir kullanıcı arayüzü.
 
-## 📸 Ekran Görüntüleri
-
-*(Bu kısımlara projenizden aldığınız ekran görüntülerinin linklerini veya dosyalarını ekleyebilirsiniz.)*
-
-**Giriş ve Kayıt Sayfaları**
-![Giriş ve Kayıt Sayfası Tasarımı](https://imgur.com/a/REe9dbh)
-
-**Ana Sayfa (Kitap Listesi)**
-![Ana Sayfa Tasarımı][(https://imgur.com/xJrZgCz)](https://i.imgur.com/xJrZgCz.png)
-
-**Kitap Detay Sayfası**
-![Detay Sayfası Tasarımı](https://imgur.com/yMsJdyJ)
-
-**Kitap Ekleme Sayfası**
-![Kitap Ekleme Tasarımı](https://imgur.com/M50oAhM)
-
-
 ## 🛠️ Kullanılan Teknolojiler
 
 ### Frontend
